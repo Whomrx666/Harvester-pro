@@ -8,8 +8,8 @@ Harvester-pro is an OSINT (Open Source Intelligence) tool used to collect public
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install git -y
-$ git clone https://github.com/Whomrx666/Xghost.git 
-$ cd Xghost
+$ git clone https://github.com/Whomrx666/Harvester-pro.git 
+$ cd Harvester-pro
 $ python3 install.py
 
 ```
