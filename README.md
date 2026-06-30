@@ -1,5 +1,5 @@
 # Harvester-pro
-![Harvester-pro preview](Harvester-pro.jpg)
+![Harvester-pro preview](Harvest.jpg)
 
 ## introduction
 Harvester-pro is an OSINT (Open Source Intelligence) tool used to collect public information from the internet about a specific target (usually a domain or company).this is the pro version of the harvester.
