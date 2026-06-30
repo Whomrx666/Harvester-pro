@@ -25,19 +25,19 @@ $ python3 harvest.py
 - **Last**: Tools will automatically do their job.
 
 # Feature
-| Main menu |  |
+| Main menu | ⚡ |
 |--------|--------|
-| **Email Harvesting** |  |
-| **Subdomain Discovery** |  |
-| **Username Enumeration** |  |
-| **DNS Lookup** |  |
-| **Port Scanning** |  |
-| **WHOIS Information** |  |
-| **Google Dorking** |  |
-| **Technology Stack Detection** |  |
-| **Reverse IP Lookup** |  |
-| **Directory Bruteforce** |  |
-| **Comprehensive Scan (All Modules)** |  |
+| **Email Harvesting** | ✔️ |
+| **Subdomain Discovery** | ✔️ |
+| **Username Enumeration** | ✔️ |
+| **DNS Lookup** | ✔️ |
+| **Port Scanning** | ✔️ |
+| **WHOIS Information** | ✔️ |
+| **Google Dorking** | ✔️ |
+| **Technology Stack Detection** | ✔️ |
+| **Reverse IP Lookup** | ✔️ |
+| **Directory Bruteforce** | ✔️ |
+| **Comprehensive Scan (All Modules)** | ✔️ |
 ---------
 
 ## Observation
